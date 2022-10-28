@@ -1,0 +1,15 @@
+C:\Users\Lena\Desktop\гикбрейнс\ДомашкаПоС\Task9\Task68\bin\Debug\net6.0\Task68.exe
+C:\Users\Lena\Desktop\гикбрейнс\ДомашкаПоС\Task9\Task68\bin\Debug\net6.0\Task68.deps.json
+C:\Users\Lena\Desktop\гикбрейнс\ДомашкаПоС\Task9\Task68\bin\Debug\net6.0\Task68.runtimeconfig.json
+C:\Users\Lena\Desktop\гикбрейнс\ДомашкаПоС\Task9\Task68\bin\Debug\net6.0\Task68.dll
+C:\Users\Lena\Desktop\гикбрейнс\ДомашкаПоС\Task9\Task68\bin\Debug\net6.0\Task68.pdb
+C:\Users\Lena\Desktop\гикбрейнс\ДомашкаПоС\Task9\Task68\obj\Debug\net6.0\Task68.csproj.AssemblyReference.cache
+C:\Users\Lena\Desktop\гикбрейнс\ДомашкаПоС\Task9\Task68\obj\Debug\net6.0\Task68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lena\Desktop\гикбрейнс\ДомашкаПоС\Task9\Task68\obj\Debug\net6.0\Task68.AssemblyInfoInputs.cache
+C:\Users\Lena\Desktop\гикбрейнс\ДомашкаПоС\Task9\Task68\obj\Debug\net6.0\Task68.AssemblyInfo.cs
+C:\Users\Lena\Desktop\гикбрейнс\ДомашкаПоС\Task9\Task68\obj\Debug\net6.0\Task68.csproj.CoreCompileInputs.cache
+C:\Users\Lena\Desktop\гикбрейнс\ДомашкаПоС\Task9\Task68\obj\Debug\net6.0\Task68.dll
+C:\Users\Lena\Desktop\гикбрейнс\ДомашкаПоС\Task9\Task68\obj\Debug\net6.0\refint\Task68.dll
+C:\Users\Lena\Desktop\гикбрейнс\ДомашкаПоС\Task9\Task68\obj\Debug\net6.0\Task68.pdb
+C:\Users\Lena\Desktop\гикбрейнс\ДомашкаПоС\Task9\Task68\obj\Debug\net6.0\Task68.genruntimeconfig.cache
+C:\Users\Lena\Desktop\гикбрейнс\ДомашкаПоС\Task9\Task68\obj\Debug\net6.0\ref\Task68.dll
